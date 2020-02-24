@@ -1,6 +1,6 @@
 # **Extended Kalman Filter Project**
 
-In this project EKF is implemented in C++ to estimate the position of a object using the simulated LASER and RADAR measurements.
+In this project EKF is implemented in C++ to estimate the position of an object using the simulated LASER and RADAR measurements.
 
 [image1]: ./output/dataset1.png "Dataset 1"
 [image2]: ./output/dataset1_laser.png "Dataset 1 LASER"
@@ -38,7 +38,7 @@ Process Covariance Matrix - Q = Identity(4, 4)
 
 ### **Root Mean Square Error (RMSE)**
 ---
-The RMSE of Dataset1 and Datset2 are as follows  
+The RMSE of Dataset1 and Dataset2 are as follows  
 Calculated RMSE is less than the required RMSE in the project rubric. 
 
 |State|  Dataset1 |Dataset2|
