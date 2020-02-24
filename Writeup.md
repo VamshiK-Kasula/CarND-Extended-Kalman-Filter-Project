@@ -64,7 +64,7 @@ For the Dataset 1 EKF Filter is tested for the scenarios where only LASER measur
 
 Recorded position estimates for the given simulated data are as follows.
 | Dataset 1| Only LASER| Only RADAR|
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 |[![alt text][image1]](<https://youtu.be/QUMj1lt3QBk>)|[![alt text][image2]](<https://youtu.be/Pd7SEuNDVD0>)|[![alt text][image3]](<https://youtu.be/M-4JYOh9oMI>)|
 
 Dataset 2
